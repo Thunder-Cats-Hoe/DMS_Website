@@ -1,4 +1,6 @@
-DMS_Website
+~ DMS_Website Update Log ~
 ===========
 
-New Website for DMS Corp
+Please add any notes or major changes to the ReadMe.
+
+1. Pushed all the major files to the master branch + copy of the template.
