@@ -35,7 +35,7 @@
 
 <body>
 <!--=== Style Switcher ===-->    
-<i class="style-switcher-btn fa fa-cogs hidden-xs"></i>
+<!-- <i class="style-switcher-btn fa fa-cogs hidden-xs"></i>
 <div class="style-switcher animated fadeInRight">
     <div class="theme-close"><i class="icon-close"></i></div>
     <div class="theme-heading">Theme Colors</div>
@@ -58,7 +58,8 @@
         <a href="javascript:void(0);" class="btn-u btn-u-green btn-block active-switcher-btn wide-layout-btn">Wide</a>
         <a href="javascript:void(0);" class="btn-u btn-u-green btn-block boxed-layout-btn">Boxed</a>
     </div>
-</div><!--/style-switcher-->
+</div> -->
+<!--/style-switcher-->
 <!--=== End Style Switcher ===-->    
 
 <div class="wrapper">
@@ -185,25 +186,32 @@
     		<div class="col-md-9 mb-margin-bottom-30">
                 <div class="headline"><h2>Contact Form</h2></div>
                 <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas feugiat. Et harum quidem rerum facilis est et expedita distinctio lorem ipsum dolor sit amet, consectetur adipiscing elit landitiis.</p><br />
-    			<form>
+    			<form action="demo-contacts-process.php" method="post">
                     <label>Name</label>
                     <div class="row margin-bottom-20">
                         <div class="col-md-7 col-md-offset-0">
-                            <input type="text" class="form-control">
+                            <input type="text" class="form-control" name="name">
                         </div>                
                     </div>
                     
                     <label>Email <span class="color-red">*</span></label>
                     <div class="row margin-bottom-20">
                         <div class="col-md-7 col-md-offset-0">
-                            <input type="text" class="form-control">
+                            <input type="text" class="form-control" name="email">
+                        </div>                
+                    </div>
+
+                    <label>Subject</label>
+                    <div class="row margin-bottom-20">
+                        <div class="col-md-7 col-md-offset-0">
+                            <input type="text" class="form-control" name="subject">
                         </div>                
                     </div>
                     
                     <label>Message</label>
                     <div class="row margin-bottom-20">
                         <div class="col-md-11 col-md-offset-0">
-                            <textarea rows="8" class="form-control"></textarea>
+                            <textarea rows="8" class="form-control" name="message"></textarea>
                         </div>                
                     </div>
                     
