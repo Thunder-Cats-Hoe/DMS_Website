@@ -1,0 +1,419 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"to",
+				"to"
+			],
+			[
+				"E",
+				"EmailParser"
+			],
+			[
+				"Email",
+				"emailParser"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"par",
+				"parsuFun"
+			],
+			[
+				"le",
+				"Legal_Desc"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"border-",
+				"border-color"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"algi",
+				"text-align"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"s",
+				"sans-serif"
+			],
+			[
+				"da",
+				"dateofbirth"
+			],
+			[
+				"dad",
+				"dad_first_name"
+			],
+			[
+				"mom_",
+				"mom_work_phone"
+			],
+			[
+				"mom",
+				"mom_cell_phone"
+			],
+			[
+				"email",
+				"email"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"address",
+				"addressFactory"
+			],
+			[
+				"cust",
+				"customers"
+			],
+			[
+				"LE_",
+				"LE_ID"
+			],
+			[
+				"ociconn",
+				"oci_connect"
+			],
+			[
+				"oci_fetch_",
+				"oci_fetch_object"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/WINDOWS/system32/http",
+		"/C/Users/Cpena/Desktop/Angular JS/ng-book/ng-practice-files/Filters/Form_Validation.html",
+		"/C/Users/Cpena/Desktop/Angular JS/ng-book/ng-practice-files/Filters/Capitalize_Filter.html",
+		"/C/Users/Cpena/Desktop/Angular JS/ng-book/ng-practice-files/Filters/Filters_Basic.html",
+		"/C/Users/Cpena/Desktop/Angular JS/ng-book/ng-practice-files/Filters/Other_Filters.html",
+		"/C/Users/Cpena/Desktop/Angular JS/ng-book/ng-code/6_filters/making-a-custom-filter/index.html",
+		"/C/Users/Cpena/Desktop/Angular JS/ng-book/ng-practice-files/Expressions/Interpolating a string.html",
+		"/C/Users/Cpena/Desktop/Angular JS/ng-book/ng-code/5_expressions/interpolate-string-template/index.html",
+		"/C/Users/Cpena/Desktop/Angular JS/ng-book/ng-practice-files/Hello_World/index.html",
+		"/C/Users/Cpena/Desktop/Angular JS/ng-book/ng-code/5_expressions/parse-expression/index.html",
+		"/C/Users/Cpena/Desktop/Angular JS/ng-book/ng-practice-files/Expressions/ParsingExpression.html",
+		"/C/Users/Cpena/Documents/Learn JavaScript Properly/AngularJS/Lynda Angular/Exercise Files/chap_05/01/final/public/index.html",
+		"/C/Users/Cpena/Documents/GitHub/LoL-MatchVS/index.html",
+		"/C/Users/Cpena/Desktop/Grid-Scheduler Kendo/LeagueoflegendsAPI.html",
+		"/C/Users/Cpena/Documents/Learn JavaScript Properly/AngularJS/Lynda Angular/Practice Files/start/server/index.js",
+		"/C/Users/Cpena/Yeomanstuff/app/index.html",
+		"/C/Users/Cpena/Yeomanstuff/package.json",
+		"/C/Users/Cpena/Yeomanstuff/app/styles/main.css",
+		"/C/Users/Cpena/Desktop/Angular JS/Up and Running/Exercise Files/03_04/start/angular/js/app.js",
+		"/C/Users/Cpena/Desktop/Angular JS/Up and Running/Exercise Files/03_04/start/angular/partials/details.html",
+		"/C/Users/Cpena/Desktop/Angular JS/Up and Running/Exercise Files/03_03/start/angular/js/controllers.js",
+		"/C/Users/Cpena/Desktop/Angular JS/Up and Running/Exercise Files/03_03/start/angular/partials/list.html",
+		"/C/Users/Cpena/Desktop/Angular JS/Up and Running/Exercise Files/03_03/start/angular/js/app.js",
+		"/C/Users/Cpena/Desktop/Angular JS/Up and Running/Exercise Files/03_03/start/angular/index.html",
+		"/C/Users/Cpena/Desktop/Angular JS/Up and Running/Exercise Files/03_02/finished/angular/index.html",
+		"/C/Users/Cpena/Desktop/Angular JS/Up and Running/Exercise Files/03_02/start/angular/index.html",
+		"/C/Users/Cpena/Desktop/Angular JS/Up and Running/Exercise Files/03_02/start/angular/js/app.js",
+		"/C/Users/Cpena/Desktop/Angular JS/Up and Running/Exercise Files/03_01/start/angular/partials/list.html",
+		"/C/Users/Cpena/Desktop/Angular JS/Up and Running/Exercise Files/03_01/start/angular/js/controllers.js",
+		"/C/Users/Cpena/Desktop/Angular JS/Up and Running/Exercise Files/03_01/start/angular/index.html",
+		"/C/Users/Cpena/Desktop/Angular JS/Up and Running/Exercise Files/03_01/start/angular/lib/angular/angular-route.min.js",
+		"/C/Users/Cpena/Desktop/Angular JS/Up and Running/Exercise Files/02_04/start/angular/js/controllers.js",
+		"/C/Users/Cpena/Desktop/Angular JS/Up and Running/Exercise Files/02_04/start/angular/index.html",
+		"/C/Users/Cpena/Desktop/Angular JS/Up and Running/Exercise Files/02_03/start/angular/index.html",
+		"/C/Users/Cpena/Desktop/Angular JS/Up and Running/Exercise Files/02_02/start/angular/js/controllers.js",
+		"/C/Users/Cpena/Desktop/Angular JS/Up and Running/Exercise Files/02_02/start/angular/index.html",
+		"/C/Users/Cpena/Desktop/Angular JS/Up and Running/Exercise Files/02_02/start/angular/js/data.json",
+		"/C/Users/Cpena/Desktop/Angular JS/Up and Running/Exercise Files/02_01/start/angular/js/controllers.js",
+		"/C/Users/Cpena/Desktop/Angular JS/Up and Running/Exercise Files/02_01/start/angular/index.html",
+		"/C/Users/Cpena/Desktop/Angular JS/Up and Running/Exercise Files/02_01/start/angular/js/data.json",
+		"/C/Users/Cpena/Desktop/Angular JS/Up and Running/Exercise Files/02_01/start/angular/css/style.css",
+		"/C/Users/Cpena/Desktop/Angular JS/Up and Running/Exercise Files/02_01/start/data.json",
+		"/C/Users/Cpena/Desktop/Angular JS/Up and Running/Exercise Files/01_04/start/angular/index.html",
+		"/C/Users/Cpena/Desktop/Angular JS/Up and Running/Exercise Files/01_04/start/angular/js/controllers.js",
+		"/C/Users/Cpena/Desktop/Angular JS/Up and Running/Exercise Files/01_03/start/angular/index.html",
+		"/C/Users/Cpena/Desktop/Angular JS/Up and Running/Exercise Files/01_04/start/angular/index",
+		"/C/Users/Cpena/Desktop/Angular JS/Up and Running/Exercise Files/01_02/finished/angular/index.html",
+		"/C/Users/Cpena/Documents/Learn JavaScript Properly/AngularJS/Lynda Angular/Exercise Files/server/index.js",
+		"/C/Users/Cpena/Documents/AngularJSDemos/AngularJSDemos/DemoList.html",
+		"/C/Users/Cpena/Documents/Learn JavaScript Properly/AngularJS/Lynda Angular/Exercise Files/server/public/index.html",
+		"/C/Users/Cpena/Documents/Learn JavaScript Properly/AngularJS/Lynda Angular/Exercise Files/server/data/airports.json",
+		"/C/Users/Cpena/Documents/Learn JavaScript Properly/AngularJS/Lynda Angular/Exercise Files/server/public/js/app.js",
+		"/C/Users/Cpena/Documents/MEAN Stack App/mean-stack-todo-master/myapp/app.js",
+		"/C/Users/Cpena/Documents/MEAN Stack App/mean-stack-todo-master/node_modules/mongodb/t.js",
+		"/C/Users/Cpena/Documents/MEAN Stack App/mean-stack-todo-master/node_modules/mongodb/index.js",
+		"/C/Users/Cpena/Documents/MEAN Stack App/mean-stack-todo-master/node_modules/mongoose/index.js",
+		"/C/Users/Cpena/Documents/MEAN Stack App/mean-stack-todo-master/node_modules/.bin/app.js",
+		"/C/Users/Cpena/Documents/MEAN Stack App/mean-stack-todo-master/app.js",
+		"/C/Users/Cpena/Documents/MEAN Stack App/mean-stack-todo-master/node_modules/.bin/routes/index.js",
+		"/C/Users/Cpena/Documents/MEAN Stack App/mean-stack-todo-master/node_modules/mongoose/History.md",
+		"/C/Users/Cpena/Documents/MEAN Stack App/mean-stack-todo-master/myapp/routes/index.js",
+		"/C/Users/Cpena/Documents/MEAN Stack App/mean-stack-todo-master/myapp/routes/index.html",
+		"/C/Users/Cpena/Documents/MEAN Stack App/mean-stack-todo-master/myapp/routes/user.js",
+		"/C/Users/Cpena/Documents/MEAN Stack App/mean-stack-todo-master/myapp/package.json",
+		"/C/Users/Cpena/Documents/MEAN Stack App/mean-stack-todo-master/routes/index.js",
+		"/C/Users/Cpena/Documents/MEAN Stack App/mean-stack-todo-master/routes/user.js",
+		"/C/Users/Cpena/Documents/MEAN Stack App/mean-stack-todo-master/models/Todo.js",
+		"/C/Users/Cpena/Documents/MEAN Stack App/mean-stack-todo-master/node_modules/mongodb/lib/mongodb/db.js",
+		"/C/Users/Cpena/Documents/MEAN Stack App/mean-stack-todo-master/node_modules/mongodb/lib/mongodb/index.js",
+		"/C/Users/Cpena/Documents/MEAN Stack App/mean-stack-todo-master/node_modules/express/index.js",
+		"/C/Users/Cpena/Desktop/Angular JS/ng-book/ng-practice-files/Expressions/parsedValue.html",
+		"/C/Users/Cpena/Desktop/Angular JS/ng-book/ng-practice-files/Expressions/js/app.js",
+		"/C/Users/Cpena/Desktop/Angular JS/ng-book/ng-practice-files/Controllers/js/app3.js",
+		"/C/Users/Cpena/Desktop/Angular JS/ng-book/ng-practice-files/Controllers/js/app.js",
+		"/C/Users/Cpena/Desktop/Angular JS/ng-book/ng-practice-files/Controllers/Machine.html",
+		"/C/Users/Cpena/Desktop/Angular JS/ng-book/ng-practice-files/Controllers/ParentController.html",
+		"/C/Users/Cpena/Desktop/Angular JS/ng-book/ng-practice-files/Controllers/js/app2.js",
+		"/C/Users/Cpena/Desktop/Angular JS/ng-book/ng-practice-files/Controllers/object.html",
+		"/C/Users/Cpena/Desktop/Angular JS/ng-book/ng-practice-files/Hello_World/rootScope.html",
+		"/C/Users/Cpena/Desktop/Angular JS/ng-book/ng-practice-files/Live_Clock/index.html",
+		"/C/Users/Cpena/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Cpena/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Cpena/Desktop/Angular JS/ng-book/ng-practice-files/Controllers/Adding",
+		"/C/Users/Cpena/Desktop/Angular JS/ng-book/ng-practice-files/Live_Clock/js/app.js",
+		"/C/Users/Cpena/Desktop/Angular JS/ng-book/ng-practice-files/Hello_World.html",
+		"/C/Users/Cpena/Desktop/Angular JS/ng-book/Hello_World.html",
+		"/C/Users/Cpena/Desktop/Angular JS/ng-book/Live_Clock.html",
+		"/C/Users/Cpena/Desktop/Angular JS/ng-book/ng-practice-files/Live_Clock.html",
+		"/C/Users/Cpena/Desktop/Angular JS/ng-book/ng-code/2_databinding-first-app/clock-example/js/app.js",
+		"/C/Users/Cpena/Documents/index.html",
+		"/C/Users/Cpena/Documents/energypro.html",
+		"/C/Users/Cpena/Desktop/Legalentity.html",
+		"/C/Users/Cpena/Desktop/Test.html",
+		"/C/Users/Cpena/Documents/randomrandomrandom/mean-stack-todo-master/node_modules/express/package.json",
+		"/C/Users/Cpena/Documents/randomrandomrandom/mean-stack-todo-master/app/app.js",
+		"/C/Users/Cpena/Documents/randomrandomrandom/mean-stack-todo-master/myapp/app.js",
+		"/C/Users/Cpena/Documents/randomrandomrandom/mean-stack-todo-master/README.md",
+		"/C/Users/Cpena/Desktop/random.json",
+		"/C/Users/Cpena/Desktop/angularproject.html",
+		"/C/Users/Cpena/Desktop/Angular JS/ng-book/ng-sample-calendar-code/todoit-custom/app/index.html",
+		"/C/Users/Cpena/Desktop/HTML,JavaScript/description.html",
+		"/C/Users/Cpena/Desktop/Angular JS/ng-book/ng-screenast_code/screencast_code/index.html",
+		"/C/Users/Cpena/Desktop/howardm.htm",
+		"/C/Users/Cpena/Desktop/Random.php",
+		"/C/Users/Cpena/Desktop/description.html",
+		"/C/Users/Cpena/Desktop/brigadestartswith.html",
+		"/C/Users/Cpena/Desktop/brigade-export.json",
+		"/C/Users/Cpena/Desktop/Kendo UI Example/AutoComplete.html",
+		"/C/Users/Cpena/Desktop/~ Interesting things to check out ~",
+		"/C/Users/Cpena/Desktop/Angular JS/ng-book/ng-code/README.md",
+		"/C/Users/Cpena/Desktop/Legalentity01/Legalentitydarkblue.html",
+		"/C/Users/Cpena/Desktop/listener.ora.txt",
+		"/C/Users/Cpena/Desktop/EmberJS/starter-kit-1.4.0/index.html",
+		"/C/Users/Cpena/Desktop/KendoUI/examples/mobile/index.html",
+		"/C/Users/Cpena/Desktop/KendoUI/examples/mobile/buttongroup/index.html",
+		"/C/Users/Cpena/Desktop/KendoUI/examples/mobile/buttongroup/Invoice.html",
+		"/C/Users/Cpena/Desktop/Angular JS/ng-book/__MACOSX/beginner_app/._index.html",
+		"/C/Users/Cpena/Desktop/Angular JS/ng-book/beginner_app/index.html",
+		"/C/Users/Cpena/Desktop/KendoUI/examples/mobile/buttongroup/Invoice.txt",
+		"/C/Users/Cpena/AppData/Local/Temp/Temp1_HTML5_Drag_and_drop_sample[1].zip/HTML,JavaScript/HTML,JavaScript/Website/DragAndDrop/default.html",
+		"/C/Users/Cpena/Desktop/Gain Elo with Thunder Cats/business-casual/index.html",
+		"/C/Users/Cpena/Desktop/Legalentity01/LESchduler.html",
+		"/C/wamp/www/WorkingGridblack.html",
+		"/C/Users/Cpena/Desktop/Legalentity01/LEschduler",
+		"/C/Users/Cpena/Desktop/Legalentity01/LEstyle02.css",
+		"/C/Users/Cpena/Desktop/Legalentity01/Legalentity - Copy.html",
+		"/C/Users/Cpena/Desktop/Legalentity01/LEstyle.txt",
+		"/C/Users/Cpena/Desktop/Gain Elo with Thunder Cats/Website Overview"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"C:\\Users\\Cpena\\Documents\\Learn JavaScript Properly\\AngularJS\\Lynda Angular\\Exercise Files\\chap_03\\03\\start\\public",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"slice",
+			"brand",
+			"bg.j",
+			"img",
+			"trigger",
+			"white",
+			"\">\n",
+			">\n",
+			"add",
+			" -",
+			"brigade"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "Unify - Live Working Model.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 155.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
