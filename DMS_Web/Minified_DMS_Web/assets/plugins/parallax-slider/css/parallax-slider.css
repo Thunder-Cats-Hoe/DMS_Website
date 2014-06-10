@@ -112,7 +112,10 @@
 	box-shadow: 0 0 5px #eee;
 	text-decoration:none;
 }
-.da-dots{
+
+/* Getting rid of the dots */
+
+/*.da-dots{
 	width: 100%;
 	position: absolute;
 	text-align: center;
@@ -141,7 +144,9 @@
 	left: 2px;
 	border-radius: 50% !important;
 	background:#fff;
-}
+}*/
+
+
 .da-arrows{
 	-moz-user-select: none;
 	-webkit-user-select: none;
