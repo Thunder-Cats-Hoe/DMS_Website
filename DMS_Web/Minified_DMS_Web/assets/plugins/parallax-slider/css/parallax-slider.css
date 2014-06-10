@@ -4,6 +4,7 @@
 	position: relative;
 	margin: 0 auto;
 	overflow: hidden;
+	/* This is where you change the slider background */
 	background: transparent url(../img/bg.jpg) repeat 0% 0%;
 	box-shadow: 0px 1px 1px rgba(0,0,0,0.2), 0px -2px 1px #fff;
 	-webkit-transition: background-position 1.4s ease-in-out 0.3s;
@@ -112,7 +113,7 @@
 	box-shadow: 0 0 5px #eee;
 	text-decoration:none;
 }
-.da-dots{
+/*.da-dots{
 	width: 100%;
 	position: absolute;
 	text-align: center;
@@ -141,7 +142,7 @@
 	left: 2px;
 	border-radius: 50% !important;
 	background:#fff;
-}
+}*/
 .da-arrows{
 	-moz-user-select: none;
 	-webkit-user-select: none;
