@@ -30,6 +30,8 @@
     <!-- CSS Customization -->
     <link rel="stylesheet" href="assets/css/custom.css">
 
+    <!-- Testimonials Slider -->
+    <link rel="stylesheet" type="text/css" href="assets/css/random.css">
 </head>	
 
 <body class="header-fixed">
@@ -344,7 +346,7 @@ Tracking, Accounting for and Reporting gas transactions.</p>
     	<!-- Info Blokcs -->
     	<div class="row margin-bottom-20">
         	<!-- Welcome Block -->
-    		<div class="col-md-8 md-margin-bottom-40">
+    		<div class="col-md-7 md-margin-bottom-40">
     			<div class="headline"><h2>Recent News</h2></div>
                 <div class="row">
                     <div class="col-sm-4">
@@ -368,39 +370,44 @@ Tracking, Accounting for and Reporting gas transactions.</p>
             </div><!--/col-md-8 -->        
 
             <!-- Latest Shots -->
-            <div class="col-md-4">
-    			<div class="headline"><h2>Latest Shots</h2></div>
-    			<div id="myCarousel" class="carousel slide carousel-v1">
-                    <div class="carousel-inner">
-                        <div class="item active">
-                            <img src="assets/img/main/5.jpg" alt="">
-                            <div class="carousel-caption">
-                                <p>Facilisis odio, dapibus ac justo acilisis gestinas.</p>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <img src="assets/img/main/4.jpg" alt="">
-                            <div class="carousel-caption">
-                                <p>Cras justo odio, dapibus ac facilisis into egestas.</p>
-                            </div>
-                            </div>
-                        <div class="item">
-                            <img src="assets/img/main/3.jpg" alt="">
-                            <div class="carousel-caption">
-                                <p>Justo cras odio apibus ac afilisis lingestas de.</p>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <div class="carousel-arrow">
-                        <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-                            <i class="fa fa-angle-left"></i>
-                        </a>
-                        <a class="right carousel-control" href="#myCarousel" data-slide="next">
-                            <i class="fa fa-angle-right"></i>
-                        </a>
-                    </div>  
-    			</div>
+            <div class="col-md-5">
+            <div class="headline"><h2>Recent Blog Entries</h2></div>
+             <div id="something" style="margin-top:58px;">
+              <div class="container">
+                <input type="radio" name="nav" id="first" checked/>
+                <input type="radio" name="nav" id="second" />
+                <input type="radio" name="nav" id="third" />
+
+                <label for="first" class="first"></label>
+              <label for="second"  class="second"></label>
+              <label for="third" class="third"></label>
+
+                <div class="one slide">
+                  <blockquote class="randomfix">
+                    <span class="leftq quotes">&ldquo;</span> He promptly completed the task at hand and communicates really well till the project reaches the finishing line. I was pleased with his creative design and will definitely be hiring him again. <span class="rightq quotes">&bdquo; </span>
+                  </blockquote>
+                  <h2>Steve Kruger</h2>
+                  <h6>UI/UX Designer at Woof Design Studio</h6>
+                </div>
+
+                <div class="two slide">
+                  <blockquote class="randomfix">
+                    <span class="leftq quotes">&ldquo;</span> He promptly completed the task at hand and communicates really well till the project reaches the finishing line. I recommend him to anyone who wants their work done professionally. The project ... <a href="#"> read more</a><span class="rightq quotes">&bdquo; </span>
+                  </blockquote>
+                  <h2>John Doe</h2>
+                  <h6>Developer Relations at Woof Studios</h6>
+                </div>
+
+                <div class="three slide">
+                  <blockquote class="randomfix">
+                    <span class="quotes leftq"> &ldquo;</span> He promptly completed the task at hand and communicates really well till the project reaches the finishing line. I was pleased with his creative design and will definitely be hiring him again. <span class="rightq quotes">&bdquo; </span>
+                  </blockquote>   
+                  <h2>Steve Stevenson</h2>
+                  <h6>CEO Woof Web Design Studios</h6>
+                </div>
+
+              </div>
+            </div>
             </div><!--/col-md-4-->
     	</div>	
     	<!-- End Info Blokcs -->
@@ -617,6 +624,11 @@ Tracking, Accounting for and Reporting gas transactions.</p>
     </div><!--/copyright--> 
     <!--=== End Copyright ===-->
 </div><!--/wrapper-->
+
+<!-- Testimonial Slider -->
+  <script src='http://codepen.io/assets/libs/fullpage/jquery.js'></script>
+  <script src="js/index.js"></script>
+<!-- End of Slider -->
 
 <!-- JS Global Compulsory -->			
 <script type="text/javascript" src="assets/plugins/jquery-1.10.2.min.js"></script>
