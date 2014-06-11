@@ -1,7 +1,7 @@
 /* 
 * Version: 1.4
 * Default Color 	  : #7994ED;
-* Default Hover Color : #5fb611;
+* Default Hover Color : #5959D6;
 */
 /* #7994ED */
 
@@ -38,11 +38,11 @@ a.read-more:hover {
 }
 
 .navbar-default .navbar-toggle {
-	border-color: #5fb611;
+	border-color: #5959D6;
 }
 
 .navbar-default .navbar-toggle:hover {
-	background: #5fb611;
+	background: #5959D6;
 }
 
 /*Responsive Navbar*/
@@ -86,7 +86,7 @@ a.read-more:hover {
 
 @media (max-width: 767px) {
 	.header .navbar .nav > li > .search:hover {
-		background: #5fb611;
+		background: #5959D6;
 	}
 }
 
@@ -149,7 +149,7 @@ a.read-more:hover {
 }
 
 .btn-u:hover {
-	background: #5fb611;
+	background: #5959D6;
 }
 
 /*Service
@@ -173,7 +173,7 @@ a.read-more:hover {
 	background:#7994ED;
 }
 .thumbnail-style a.btn-more:hover {
-	box-shadow:0 0 0 2px #5fb611;
+	box-shadow:0 0 0 2px #5959D6;
 }
 
 /*Carousel (Recent Work)*/
@@ -271,7 +271,7 @@ blockquote:hover {
 .tab-v3 .nav-pills li a:hover,
 .tab-v3 .nav-pills li.active a {
 	background: #7994ED;
-	border: solid 1px #5fb611;
+	border: solid 1px #5959D6;
 }
 
 /*Accardion
@@ -486,15 +486,15 @@ ul.blog-tags a:hover {
 }
 
 .pagination li a:hover {
-   background: #5fb611;
-   border-color: #5fb611;   
+   background: #5959D6;
+   border-color: #5959D6;   
 }
 
 /*Pager*/
 .pager li > a:hover, 
 .pager li > a:focus {
-   background: #5fb611;
-   border-color: #5fb611;   
+   background: #5959D6;
+   border-color: #5959D6;   
 }
 
 /*Registration and Login Page v2
