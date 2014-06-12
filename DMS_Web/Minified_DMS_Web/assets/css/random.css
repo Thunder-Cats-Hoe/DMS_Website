@@ -160,3 +160,7 @@ overflow: hidden;
   left:0;
   opacity:1;
 }
+
+.row{
+    overflow:hidden; 
+}
