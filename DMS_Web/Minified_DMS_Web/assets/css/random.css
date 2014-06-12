@@ -82,6 +82,7 @@ overflow: hidden;
   font-size: 16px;
 }
 
+
 #something blockquote:after { 
   content: " "; 
   height: 0; 
