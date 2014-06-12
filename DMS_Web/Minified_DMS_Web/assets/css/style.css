@@ -284,7 +284,7 @@
 }
 
 /*Navbar*/
-@media (min-width: 992px) {
+@media (min-width: 1000px) {
 	.header .navbar-nav {
 		float: right;
 	}	
