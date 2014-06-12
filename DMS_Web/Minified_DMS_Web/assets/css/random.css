@@ -30,6 +30,10 @@
   margin:15px 0 5px;
   text-shadow:0 1px rgba(255,255,255,0.5);
 }
+#something h5{
+  color:#928566; 
+  margin:0;
+}
 #something h6{
   color:#928566; 
   margin:0;
@@ -46,7 +50,7 @@ overflow: hidden;
 }
 #something label{
   display:block;
-  width:28%;
+  width:24%;
   border: 4px solid grey;
   position:absolute;
   bottom:5px;
@@ -55,17 +59,21 @@ overflow: hidden;
 }
 
 #something label.second{
-  left:35%;
+  left:32%;
 
 }
 #something label.third{
-  left:67%;
+  left:62%;
 }
 
 #something blockquote{
   margin:0;
-  padding:30px;
-  width:500px;
+  padding-top:18px;
+  padding-bottom:10px;
+  padding-right:9px;
+  padding-left:9px;
+  width:430px;
+  height:210px;
   background-color: #AF2312;
   color:white;
   box-shadow: 0 5px 2px rgba(0,0,0,0.1);
