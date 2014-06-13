@@ -1,1 +1,16 @@
 /* Add here all your css styles (customizations) */
+@media all and (max-width: 1200px) { 
+    .header .navbar-default .navbar-nav > li > a {
+        font-size: 1.0em; 
+    }
+}
+@media all and (max-width: 1000px) { 
+    .header .navbar-default .navbar-nav > li > a {
+        font-size: 0.50em;
+        }
+    }
+@media all and (max-width: 767px) {
+    .header .navbar-default .navbar-nav > li > a  {
+        font-size: 1.3em; 
+        }
+    }
