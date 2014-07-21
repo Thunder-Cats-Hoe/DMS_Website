@@ -25,13 +25,13 @@
   box-shadow: 0 0 5px #ccc;
   margin-left: auto !important;
   margin-right: auto !important;
-  background: url(../img/patterns/15.png) repeat;
+  background: url(../img/patterns/14.png) repeat;
 }
 
-/*Parallax Backgrounds
-------------------------------------*/
+/*Parallax Backgrounds*/
+/*<This links to the page_faq1 background image halfway down.>*/
 .parallax-bg {
-	background: url(../img/blur/img1.jpg) 50% 0 repeat fixed;		
+	background: url(../img/blur/img2.jpg) 50% 0 repeat fixed;		
 }
 
 /*Parallax Counter Block*/
@@ -53,8 +53,9 @@
 }
 
 /*Parallax Team*/
+/*<This links to the page_about1 background image halfway down the page>*/
 .parallax-team {
-	background: url(../img/team/faces.jpg) 50% 0 repeat fixed;	
+	background: url(../img/team/5.jpg) 20% 0 repeat fixed;	
 }
 
 .parallax-team,
@@ -69,7 +70,7 @@
 	height: 100%; 
 	content: " ";
 	position: absolute;
-	background: rgba(255,255,255,0.9);
+	background:
 }
 
 /*Top Bar (login, search etc.)
