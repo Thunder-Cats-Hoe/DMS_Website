@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->  
 <!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->  
-<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->  
+<!--[if !IE]><!--> <html lang="en" ng-app="myapp"> <!--<![endif]-->  
 <head>
     <title>DMS Corp | Home...</title>
 
@@ -32,9 +32,15 @@
 
     <!-- Testimonials Slider -->
     <link rel="stylesheet" type="text/css" href="assets/css/random.css">
+
+    <!-- Angular + Firebase -->
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.6/angular.min.js'></script>
+    <script src='https://cdn.firebase.com/js/client/1.0.17/firebase.js'></script>
+    <script src='https://cdn.firebase.com/libs/angularfire/0.7.1/angularfire.min.js'></script>
+
 </head>	
 
-<body class="header-fixed">
+<body class="header-fixed" ng-controller="MyController">
 <!--=== Style Switcher ===-->    
 <!-- <i class="style-switcher-btn fa fa-cogs hidden-xs"></i>
 <div class="style-switcher animated fadeInRight">
@@ -555,22 +561,10 @@
                     <!-- Recent Blogs -->
                     <div class="posts">
                         <div class="headline"><h2>Recent Blog Entries</h2></div>
-                        <dl class="dl-horizontal">
-                            <dt><a href="#"><img src="assets/img/sliders/elastislide/6.jpg" alt="" /></a></dt>
+                        <dl class="dl-horizontal" ng-repeat="post in posts">
+                            <dt><a href="#"><img src="assets/img/sliders/elastislide/{{post.imgpath}}" alt="" /></a></dt>
                             <dd>
-                                <p><a href="#">DMS enrolls over 200 for the Fall of 2014.</a></p> 
-                            </dd>
-                        </dl>
-                        <dl class="dl-horizontal">
-                        <dt><a href="#"><img src="assets/img/sliders/elastislide/10.jpg" alt="" /></a></dt>
-                            <dd>
-                                <p><a href="#">Anim moon officia Unify is an incredibly beautiful responsive Bootstrap Template</a></p> 
-                            </dd>
-                        </dl>
-                        <dl class="dl-horizontal">
-                        <dt><a href="#"><img src="assets/img/sliders/elastislide/11.jpg" alt="" /></a></dt>
-                            <dd>
-                                <p><a href="#">Anim moon officia Unify is an incredibly beautiful responsive Bootstrap Template</a></p> 
+                                <p><a href="#">{{post.title}} - {{post.content | limitTo:75}}...</a></p>
                             </dd>
                         </dl>
                     </div>
@@ -627,6 +621,9 @@
     </div><!--/copyright--> 
     <!--=== End Copyright ===-->
 </div><!--/wrapper-->
+
+<!-- Firebase + Angular Js file -->
+<script type="text/javascript" src="assets/js/controller.js"></script>
 
 <!-- Testimonial Slider -->
   <script src='http://codepen.io/assets/libs/fullpage/jquery.js'></script>
