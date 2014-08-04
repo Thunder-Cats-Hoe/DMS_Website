@@ -16,4 +16,36 @@ function MyController($scope, $firebase) {
 		$scope.tags = "";
 		$scope.content = "";
 	};
+  
+  $scope.totalItems = 64;
+  $scope.currentPage = 4;
+
+  $scope.setPage = function (pageNo) {
+    $scope.currentPage = pageNo;
+  };
+
+  $scope.pageChanged = function() {
+    console.log('Page changed to: ' + $scope.currentPage);
+  };
+
+  $scope.maxSize = 5;
+  $scope.bigTotalItems = 175;
+  $scope.bigCurrentPage = 1;
+
+
+	$scope.colors = [
+	  {name:'2014'},
+	  {name:'2013'},
+	  {name:'2012'},
+	  {name:'2010'},
+	  {name:'2009'},
+	  {name:'2008'},
+	  {name:'2007'},
+	  {name:'2006'},
+	  {name:'2005'}
+	];
+	$scope.myColor = $scope.colors[0]; // red
+
+  $scope.orderProp = 'age';
+
 }
