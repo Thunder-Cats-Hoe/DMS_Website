@@ -163,4 +163,14 @@ overflow: hidden;
   opacity:1;
 }
 
+.imgsliderfu2 {
+  position: relative;
+    top: 0px;
+    left: 0px;  
+}
 
+.imgsliderfu1 {
+  position: relative;
+    top: 150px;
+    Left: -957px;  
+}
